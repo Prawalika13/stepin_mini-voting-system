@@ -1,7 +1,14 @@
 ## Requirements
 ## Introduction
+
  Voting plays a major role during elections in a democratic country like India, where every citizen above the age of 18 has the right to vote. Electronic Voting Machine (EVM) is a simple device to count votes during elections. Electronic Voting Machines are used to avoid security related problems. hence, many biometric based  authentications have been introduced. Face detection and recognition technique are one of the most important biometrics. Face detection is the process of detecting a face in an image or a video. Face recognition takes the image detected and tries to identify to whom the face belongs.
-Features:
+
+## Research
+## History of Voting system
+
+The earliest pioneers of facial recognition were Woody Bledsoe, Helen Chan Wolf and Charles Bisson. In 1964 and 1965, Bledsoe, along with Wolf and Bisson began work using computers to recognise the human face. ... These were then mathematically rotated by a computer to compensate for pose variation. Elections are fundamental defining characteristics of any democracy that is being governed by the people expressing their choices or articulate opinions in the form of voting. Now the voting mechanism have evolved from leaps and bounds of simple hand written ballots to online voting systems. This project aims to build a smart voting system using face recognition technology that allows any voter in INDIA by going to their respective constituency from “ANYWHERE IN INDIA” to the nearest voting booth in the place of stay. This project is used to maintain High level biometric security. The voter details are stored in server database. 
+
+## Features:
  The feature used in this project as listed below
 •	Add voter's information:
 	Voter's name
